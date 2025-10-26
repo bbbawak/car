@@ -1,0 +1,363 @@
+[
+  {
+    "make": "Ford",
+    "model": "Focus",
+    "year": 2016,
+    "price": 12000.25,
+    "color": "Red",
+    "cylinders": 4,
+    "mileage": 28014
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Cruze",
+    "year": 2017,
+    "price": 14500.75,
+    "color": "Blue",
+    "cylinders": 4,
+    "mileage": 21037
+  },
+  {
+    "make": "Toyota",
+    "model": "Corolla",
+    "year": 2018,
+    "price": 17000.50,
+    "color": "Silver",
+    "cylinders": 4,
+    "mileage": 19023
+  },
+  {
+    "make": "Honda",
+    "model": "Fit",
+    "year": 2019,
+    "price": 18500.65,
+    "color": "Black",
+    "cylinders": 4,
+    "mileage": 17053
+  },
+  {
+    "make": "Nissan",
+    "model": "Sentra",
+    "year": 2020,
+    "price": 20000.95,
+    "color": "White",
+    "cylinders": 4,
+    "mileage": 15062
+  },
+  {
+    "make": "Hyundai",
+    "model": "Elantra",
+    "year": 2019,
+    "price": 16500.80,
+    "color": "Grey",
+    "cylinders": 4,
+    "mileage": 20017
+  },
+  {
+    "make": "Kia",
+    "model": "Forte",
+    "year": 2018,
+    "price": 15500.40,
+    "color": "Orange",
+    "cylinders": 4,
+    "mileage": 23028
+  },
+  {
+    "make": "Mazda",
+    "model": "Mazda3",
+    "year": 2021,
+    "price": 23000.35,
+    "color": "Black",
+    "cylinders": 4,
+    "mileage": 9008
+  },
+  {
+    "make": "Subaru",
+    "model": "Impreza",
+    "year": 2017,
+    "price": 16000.90,
+    "color": "Blue",
+    "cylinders": 4,
+    "mileage": 26042
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Jetta",
+    "year": 2019,
+    "price": 19000.60,
+    "color": "Red",
+    "cylinders": 4,
+    "mileage": 18047
+  },
+  {
+    "make": "Ford",
+    "model": "Fusion",
+    "year": 2018,
+    "price": 17500.55,
+    "color": "Silver",
+    "cylinders": 4,
+    "mileage": 21029
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Malibu",
+    "year": 2019,
+    "price": 19500.70,
+    "color": "White",
+    "cylinders": 4,
+    "mileage": 16038
+  },
+  {
+    "make": "Toyota",
+    "model": "Camry",
+    "year": 2020,
+    "price": 23000.75,
+    "color": "Black",
+    "cylinders": 4,
+    "mileage": 13050
+  },
+  {
+    "make": "Honda",
+    "model": "Accord",
+    "year": 2017,
+    "price": 16500.85,
+    "color": "Blue",
+    "cylinders": 4,
+    "mileage": 24021
+  },
+  {
+    "make": "Nissan",
+    "model": "Altima",
+    "year": 2018,
+    "price": 18500.90,
+    "color": "Grey",
+    "cylinders": 4,
+    "mileage": 18047
+  },
+  {
+    "make": "Hyundai",
+    "model": "Sonata",
+    "year": 2019,
+    "price": 19000.95,
+    "color": "Silver",
+    "cylinders": 4,
+    "mileage": 17053
+  },
+  {
+    "make": "Kia",
+    "model": "Optima",
+    "year": 2020,
+    "price": 22000.50,
+    "color": "Red",
+    "cylinders": 4,
+    "mileage": 15062
+  },
+  {
+    "make": "Mazda",
+    "model": "Mazda6",
+    "year": 2018,
+    "price": 20500.70,
+    "color": "Black",
+    "cylinders": 4,
+    "mileage": 20017
+  },
+  {
+    "make": "Subaru",
+    "model": "Legacy",
+    "year": 2019,
+    "price": 21500.80,
+    "color": "White",
+    "cylinders": 4,
+    "mileage": 23028
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Passat",
+    "year": 2021,
+    "price": 24500.40,
+    "color": "Blue",
+    "cylinders": 4,
+    "mileage": 9008
+  },
+  {
+    "make": "Ford",
+    "model": "Mustang",
+    "year": 2017,
+    "price": 24500.60,
+    "color": "Red",
+    "cylinders": 8,
+    "mileage": 26042
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Camaro",
+    "year": 2018,
+    "price": 26000.45,
+    "color": "Yellow",
+    "cylinders": 6,
+    "mileage": 18047
+  },
+  {
+    "make": "Toyota",
+    "model": "Supra",
+    "year": 2019,
+    "price": 27500.70,
+    "color": "Black",
+    "cylinders": 6,
+    "mileage": 16038
+  },
+  {
+    "make": "Honda",
+    "model": "Civic Type R",
+    "year": 2020,
+    "price": 27999.99,
+    "color": "Blue",
+    "cylinders": 4,
+    "mileage": 13050
+  },
+  {
+    "make": "Nissan",
+    "model": "370Z",
+    "year": 2017,
+    "price": 25000.30,
+    "color": "Red",
+    "cylinders": 6,
+    "mileage": 24021
+  },
+  {
+    "make": "Hyundai",
+    "model": "Veloster",
+    "year": 2018,
+    "price": 22000.80,
+    "color": "Black",
+    "cylinders": 4,
+    "mileage": 18047
+  },
+  {
+    "make": "Kia",
+    "model": "Stinger",
+    "year": 2019,
+    "price": 26000.50,
+    "color": "Silver",
+    "cylinders": 6,
+    "mileage": 17053
+  },
+  {
+    "make": "Mazda",
+    "model": "MX-5 Miata",
+    "year": 2020,
+    "price": 24500.70,
+    "color": "Red",
+    "cylinders": 4,
+    "mileage": 15062
+  },
+  {
+    "make": "Subaru",
+    "model": "BRZ",
+    "year": 2018,
+    "price": 25500.75,
+    "color": "Blue",
+    "cylinders": 4,
+    "mileage": 20017
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Golf GTI",
+    "year": 2019,
+    "price": 26500.35,
+    "color": "White",
+    "cylinders": 4,
+    "mileage": 23028
+  },
+  {
+    "make": "Ford",
+    "model": "Escape",
+    "year": 2021,
+    "price": 27000.45,
+    "color": "Silver",
+    "cylinders": 4,
+    "mileage": 9008
+  },
+  {
+    "make": "Chevrolet",
+    "model": "Equinox",
+    "year": 2017,
+    "price": 27500.60,
+    "color": "Grey",
+    "cylinders": 4,
+    "mileage": 26042
+  },
+  {
+    "make": "Toyota",
+    "model": "RAV4",
+    "year": 2018,
+    "price": 28000.70,
+    "color": "Black",
+    "cylinders": 4,
+    "mileage": 18047
+  },
+  {
+    "make": "Honda",
+    "model": "CR-V",
+    "year": 2019,
+    "price": 24000.55,
+    "color": "White",
+    "cylinders": 4,
+    "mileage": 20017
+  },
+  {
+    "make": "Nissan",
+    "model": "Rogue",
+    "year": 2020,
+    "price": 23000.40,
+    "color": "Silver",
+    "cylinders": 4,
+    "mileage": 23028
+  },
+  {
+    "make": "Hyundai",
+    "model": "Tucson",
+    "year": 2018,
+    "price": 25000.65,
+    "color": "Black",
+    "cylinders": 4,
+    "mileage": 9008
+  },
+  {
+    "make": "Kia",
+    "model": "Sportage",
+    "year": 2019,
+    "price": 26000.70,
+    "color": "Red",
+    "cylinders": 4,
+    "mileage": 26042
+  },
+  {
+    "make": "Mazda",
+    "model": "CX-5",
+    "year": 2017,
+    "price": 25500.50,
+    "color": "Blue",
+    "cylinders": 4,
+    "mileage": 16038
+  },
+  {
+    "make": "Subaru",
+    "model": "Outback",
+    "year": 2018,
+    "price": 27000.55,
+    "color": "Green",
+    "cylinders": 4,
+    "mileage": 13050
+  },
+  {
+    "make": "Volkswagen",
+    "model": "Tiguan",
+    "year": 2019,
+    "price": 28500.45,
+    "color": "Grey",
+    "cylinders": 4,
+    "mileage": 24021
+  }
+]
+
