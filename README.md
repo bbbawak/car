@@ -12,7 +12,7 @@ This project implements a Windows Forms application for reading and sorting car 
 
 ## Project Details
 
-This project has been customized for **Bernard Bawak**.
+
 
 - Project Name: `BernardBawakA7`
 - Namespace: `BernardBawakA7`
